@@ -12,4 +12,8 @@ As mentioned above, the main purpose is to learn how to use Git and Github toget
 This is a simple web projct, deployment can be on any web server or even local file system.
 ## How To Contribute
 
+##Copyrighy
+
+2023 Git.Training
+
 ## Shows diff between Remote repo and local.
