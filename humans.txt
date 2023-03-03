@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Oussama BALBAL o.bal@gmail.com
 
 # THANKS
 
